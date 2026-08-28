@@ -1,0 +1,9 @@
+{
+    "name": "adminsitrador/exerc24", 
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
